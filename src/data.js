@@ -1,0 +1,8 @@
+export const starterSongs = [
+  { id:'s1', title:'Night Changes', artist:'One Direction', album:'FOUR', duration:'3:46', cover:'https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=500&q=80', audio:'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3', genre:'Pop' },
+  { id:'s2', title:'Midnight City', artist:'M83', album:'Hurry Up, We’re Dreaming', duration:'4:03', cover:'https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500&q=80', audio:'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3', genre:'Electronic' },
+  { id:'s3', title:'Golden Hour', artist:'JVKE', album:'this is what ____ feels like', duration:'3:29', cover:'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=500&q=80', audio:'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3', genre:'Pop' },
+  { id:'s4', title:'Ocean Eyes', artist:'Billie Eilish', album:' dont smile at me', duration:'3:20', cover:'https://images.unsplash.com/photo-1500375592092-40eb2168fd21?w=500&q=80', audio:'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3', genre:'Indie' },
+  { id:'s5', title:'Blinding Lights', artist:'The Weeknd', album:'After Hours', duration:'3:20', cover:'https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=500&q=80', audio:'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3', genre:'Synth-pop' },
+  { id:'s6', title:'Sunset Lover', artist:'Petit Biscuit', album:'Presence', duration:'3:57', cover:'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=500&q=80', audio:'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3', genre:'Electronic' }
+]
