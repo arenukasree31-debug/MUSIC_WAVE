@@ -214,3 +214,7 @@ export function MusicProvider({ children }) {
         <div id="yt-hidden-player" />
       </div>
     </MusicContext.Provider>
+  )
+}
+
+export const useMusic = () => useContext(MusicContext)
